@@ -1,6 +1,6 @@
 This project is a recreation of a professional marketing dashboard designed to demonstrate proficiency in data visualization, ETL processes, and insight communication. The dashboard integrates synthetic marketing data across multiple digital channels—including Programmatic, Paid Search, Paid Social, and Organic—and various data sources such as Amazon Ad Server, LinkedIn Ads, and Google. It features a comprehensive layout consisting of top-level KPI cards with sparklines, detailed performance tables for channels and campaigns, and a time-series chart to track performance trends over time.
 
-The objective of this exercise is to showcase how raw data can be transformed into actionable business intelligence. Beyond the visual replication, the project includes a walkthrough video that details the utility of each widget, the logic behind the data generation, and the specific insights identified within the metrics. This challenge serves as a practical application of matching technical design accuracy with the ability to articulate how a marketing team would utilize these tools for day-to-day decision-making.
+The objective of this exercise is to showcase how raw data can be transformed into actionable business intelligence. This challenge serves as a practical application of matching technical design accuracy with the ability to articulate how a marketing team would utilize these tools for day-to-day decision-making.
 
 
 <img width="2392" height="1440" alt="image" src="https://github.com/user-attachments/assets/56e20601-0721-46ef-ac14-5ab4a050cdd2" />
